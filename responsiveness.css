@@ -15,6 +15,7 @@
     box-sizing: border-box;
 }
 main{
+    max-width: 1440px;
     font-family: 'Poppins';
     display: flex;
     justify-content: center;
