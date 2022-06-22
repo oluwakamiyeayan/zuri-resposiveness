@@ -1,0 +1,2 @@
+# zuri-resposiveness
+media queries
